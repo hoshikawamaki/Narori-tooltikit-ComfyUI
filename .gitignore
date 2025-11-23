@@ -1,1 +1,2 @@
 *.js linguist-generated=true
+param_selector_narori/web/* linguist-vendored
